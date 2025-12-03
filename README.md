@@ -202,7 +202,7 @@ Version Control: Git, GitHub best practices
 ## 🤝 Contact & Collaboration
 
 👤 **Author**: Sourabh Narvariya  
-📧 **Email**: [sourabh.narvariya@example.com](mailto:sourabh.narvariya@example.com)  
+📧 **Email**: [sourabh.narvariya@sourabhnarvariya55@gmail.com](mailto:sourabh.narvariya@sourabhnarvariya55@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/sourabh-narvariya](https://linkedin.com/in/sourabh-narvariya)  
 🐙 **GitHub**: [@Sourabh-Narvariya](https://github.com/Sourabh-Narvariya)  
 

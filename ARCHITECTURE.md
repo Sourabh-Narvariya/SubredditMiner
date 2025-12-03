@@ -2,7 +2,7 @@
 
 ## High-Level Design
 
-The Reddit Content Research Agent follows a modular, scalable architecture designed for maintainability and extensibility.
+SubredditMiner follows a modular, scalable architecture designed for maintainability and extensibility.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

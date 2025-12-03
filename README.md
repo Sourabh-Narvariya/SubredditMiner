@@ -1,5 +1,4 @@
-# Reddit Content Research Agent
-
+# SubredditMiner
 ## 🚀 Project Overview
 
 An advanced AI-powered intelligent system designed to automate Reddit content discovery, analysis, and research. This project combines modern technologies including **LangChain**, **Google Gemini AI**, **Django**, and **Bright Data** APIs to create a scalable web scraping and content analysis pipeline.
@@ -29,7 +28,7 @@ An advanced AI-powered intelligent system designed to automate Reddit content di
 ## 📦 Project Architecture
 
 ```
-reddit-content-research-agent/
+SubredditMiner/
 ├── nbs/                    # Jupyter Notebooks for prototyping
 │   ├── 01-ser-api.ipynb    # Search Engine Results API
 │   ├── 02-reddit-agent.ipynb # Reddit discovery agent
@@ -55,8 +54,8 @@ reddit-content-research-agent/
 
 ```bash
 # Clone repository
-git clone https://github.com/Sourabh-Narvariya/reddit-content-research-agent.git
-cd reddit-content-research-agent
+git clone https://github.com/Sourabh-Narvariya/SubredditMiner.git
+cd SubredditMiner
 
 # Create virtual environment
 python -m venv venv
